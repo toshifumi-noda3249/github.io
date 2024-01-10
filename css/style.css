@@ -184,11 +184,11 @@ h3 {
 }
 .comment1 {
     font-size: 1vw;
-    padding: 50px;
+    padding: 50px 50px 10px 50px;
 }
 .comment2 {
     font-size: 1vw;
-    padding: 50px
+    padding: 50px 50px 10px 50px;
 }
 .river {
     display: flex;
