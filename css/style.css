@@ -342,6 +342,18 @@ h3 {
     font-size: 1vw;
    margin: 0 0 50px 0;
 }
+.mail {
+    width: 5vw;
+    height: 5vw;
+}
+
+.contact {
+    padding: 50px;
+    text-align: center;
+}
+.contact p {
+    margin: 0;
+}
 
 @media screen and (max-width:767px){ 
     .top-left p {
