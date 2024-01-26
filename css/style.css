@@ -587,7 +587,8 @@ input,textarea {
     margin: 0;
     padding: 0 0 5vw 0;
 } */
-
+.career p {
+ padding: 4vw 0 0 0 ;
 .about {
     margin: 8vw 13vw 0 13vw;
 }
